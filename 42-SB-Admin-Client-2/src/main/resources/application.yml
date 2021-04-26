@@ -1,0 +1,14 @@
+server:
+  port: 2222
+spring:
+  application:
+    name: CLIENT-TWO
+  boot:
+    admin:
+      client:
+        url: http://localhost:9090/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

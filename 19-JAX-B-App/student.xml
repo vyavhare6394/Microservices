@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student standard="5th">
+    <student-id>201</student-id>
+    <student-name>Peter</student-name>
+    <student-rank>80</student-rank>
+</student>
